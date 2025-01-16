@@ -3,5 +3,6 @@ public class Main {
       System.out.println("Hello World");
          System.out.println("mn");
             System.out.println("maab isam");
+             System.out.println("amro");
     }
   }
